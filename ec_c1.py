@@ -1,3 +1,5 @@
+# https://youtu.be/LBKKMVUBbc4 <- tutorial video
+
 import random
 
 # Method to generate a secret number
